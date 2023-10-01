@@ -95,7 +95,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ![270335995-d9982d36-38e7-44dc-924b-15f8d96a5fff](https://github.com/Yuva2005raj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343998/7f649ec5-d6d0-4b18-96ef-4731d22ecf72)
 
-# checking the null()functiom:
+# checking the null()function:
 
 ![270336078-75b24d78-a5f7-4269-8214-274cc416a0de](https://github.com/Yuva2005raj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343998/0f6a5d2e-60fb-4ea2-93e8-a4e4fd7ce5c6)
 
